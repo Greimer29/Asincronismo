@@ -1,0 +1,19 @@
+{
+    "name": "asincronismo",
+    "version": "1.0.0",
+    "description": "Programa asíncrono que trabaja con callbacks, promesas y async await",
+    "main": "src/index.js",
+    "scripts": {
+        "callback": "node src/callback/index.js"
+    },
+    "keywords": [
+        "callback",
+        "promise",
+        "async"
+    ],
+    "author": "Greimer29",
+    "license": "ISC",
+    "dependencies": {
+        "xmlhttprequest": "^1.8.0"
+    }
+}
